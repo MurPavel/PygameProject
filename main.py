@@ -3,7 +3,7 @@ import pygame
 
 
 pygame.init()
-pygame.display.set_caption("Spase Adventure")
+pygame.display.set_caption("Space Adventure")
 pygame.display.set_icon(pygame.transform.scale(pygame.image.load("data/icon.ico"), (5, 5)))
 WIDTH = 800
 HEIGHT = 600
